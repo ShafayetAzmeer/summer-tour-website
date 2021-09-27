@@ -1,0 +1,23 @@
+.touristSpot{
+    background-image: linear-gradient(to top,
+    rgba(0,0,255,0.2),
+    rgba(0,0,255,0.1),
+    rgba(0,0,255,0),
+    white 
+ );   
+    box-shadow: 4px 4px 7px rgba(0,0,255,0.2);
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.touristSpot:hover {
+    box-shadow: 4px 4px 7px rgba(0,0,255,0.4);
+    border-radius: 5px;
+    border: 1px solid blue;
+  }
+
+.touristSpot img{
+    height: 250px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}

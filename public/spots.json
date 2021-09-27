@@ -1,0 +1,75 @@
+[
+    {
+      "img": "https://www.rivieratravel.co.uk/blog/wp-content/uploads/2019/03/top-10-UNESCO-world-heritage-sites-Abu-Simbel_V8-1024x682.jpg",
+      "place": "Nubian Monuments",
+      "country": "Egypt",
+      "flights": 2,
+      "corona": "Yes",
+      "cost": 2500
+    },
+    {
+      "img": "https://www.rivieratravel.co.uk/blog/wp-content/uploads/2019/03/top-10-UNESCO-world-heritage-sites-Boudhanath-stupa-Kathmandu_V8-1024x683.jpg",
+      "place": "Kathmandu Valley",
+      "country": "Nepal",
+      "flights": 3,
+      "corona": "No",
+      "cost": 1000
+    },
+    {
+      "img": "https://www.rivieratravel.co.uk/blog/wp-content/uploads/2019/03/top-10-UNESCO-world-heritage-sites-Cape-Floral-Region-South-Africa_V8-1024x683.jpg",
+      "place": "Cape Floral Region",
+      "country": "South Africa",
+      "flights": 5,
+      "corona": "Yes",
+      "cost": 5000
+    },
+    {
+      "img": "https://www.rivieratravel.co.uk/blog/wp-content/uploads/2019/03/top-10-UNESCO-world-heritage-sites-Machu-Picchu_V8-1024x682.jpg",
+      "place": "Machu Picchu",
+      "country": "Peru",
+      "flights": 2,
+      "corona": "No",
+      "cost": 7500
+    },
+    {
+      "img": "https://www.rivieratravel.co.uk/blog/wp-content/uploads/2019/03/top-10-UNESCO-world-heritage-sites-Great-Barrier-Reef_V8-1024x635.jpg",
+      "place": " Great Barrier Reef",
+      "country": "Australia",
+      "flights": 2,
+      "corona": "Yes",
+      "cost": 8000
+    },
+    {
+      "img": "https://www.rivieratravel.co.uk/blog/wp-content/uploads/2019/03/top-10-UNESCO-world-heritage-sites-Canals-of-Bruges_V8-1024x683.jpg",
+      "place": "Bruges",
+      "country": "Belgium",
+      "flights": 1,
+      "corona": "No",
+      "cost": 4500
+    },
+    {
+      "img": "https://www.rivieratravel.co.uk/blog/wp-content/uploads/2019/03/top-10-UNESCO-world-heritage-sites-Yellowstone-National-Park_V8-1024x684.jpg",
+      "place": "Yellowstone National Park",
+      "country": "USA",
+      "flights": 8,
+      "corona": "Yes",
+      "cost": 18500
+    },
+    {
+      "img": "https://www.rivieratravel.co.uk/blog/wp-content/uploads/2019/03/top-10-UNESCO-world-heritage-sites-Great-Wall-of-China_V8-1024x684.jpg",
+      "place": "The Great Wall",
+      "country": "China",
+      "flights": 4,
+      "corona": "Yes",
+      "cost": 10000
+    },
+    {
+      "img": "https://www.rivieratravel.co.uk/blog/wp-content/uploads/2019/03/top-10-UNESCO-world-heritage-sites-The-Treasury-Petra_V8-1024x763.jpg",
+      "place": " Petra",
+      "country": "Jordan",
+      "flights": 1,
+      "corona": "No",
+      "cost": 9500
+    }
+
+  ]
